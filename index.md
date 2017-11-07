@@ -21,7 +21,8 @@ Projektteilnehmer:
 Disy, FZI WIM und FZI IMA
 
 
-![GitHub Logo](/images/disy_logo_rgb_500_180.gif)  ![GitHub Logo](/images/610px-Fzi_logo.png) 
+![GitHub Logo](/images/disy_logo_rgb_500_180.gif)
+  ![GitHub Logo](/images/610px-Fzi_logo.png) 
 
 Projektlaufzeit: 
 
