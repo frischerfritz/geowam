@@ -22,7 +22,7 @@ Disy, FZI WIM und FZI IMA
 
 
 ![GitHub Logo](/images/610px-Fzi_logo.png)
-Format: ![Alt Text](url)
+(url)
 
 ![GitHub Logo](/images/disy_logo_rgb_500_180.gif)
 Format: ![Alt Text](url)
