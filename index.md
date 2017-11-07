@@ -3,7 +3,7 @@
 Projektteilnehmer: 
 Disy, FZI WIM und FZI IMA 
 
-<img src="..\images\610px-Fzi_logo.png">
+<img src="wekovi.github.io/images/610px-Fzi_logo.png">
 
 ## Welcome to GitHub Pages
 
