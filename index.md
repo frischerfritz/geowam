@@ -4,6 +4,7 @@
 Projektteilnehmer: 
 Disy, FZI WIM und FZI IMA 
 
+Kontakt: sophia.baron@disy.net
 <img src="wekovi.github.io/images/610px-Fzi_logo.png">
 Projektlaufzeit: Mai 2017 bis Juli 2019
 
