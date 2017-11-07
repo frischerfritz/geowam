@@ -1,13 +1,22 @@
 ## WEKOVI - Werkzeug für die einfache Erstellung komplexer Vergleichsindizes
 
 
-Projektteilnehmer: 
-Disy, FZI WIM und FZI IMA 
+Projektteilnehmer:
+Disy, FZI WIM und FZI IMA
 
 Kontakt: sophia.baron@disy.net
 
-<img src="wekovi.github.io/images/610px-Fzi_logo.png">
+
+
+![GitHub Logo](/images/610px-Fzi_logo.png)
+Format: ![Alt Text](url)
+
+![GitHub Logo](/images/disy_logo_rgb_500_180.gif)
+Format: ![Alt Text](url)
+
+
 Projektlaufzeit: Mai 2017 bis Juli 2019
+
 
 
 ## Problemstellung
