@@ -21,13 +21,11 @@ Projektteilnehmer:
 Disy, FZI WIM und FZI IMA
 
 
-![GitHub Logo](/images/610px-Fzi_logo.png)
-(url)
+![GitHub Logo](/images/disy_logo_rgb_500_180.gif)  ![GitHub Logo](/images/610px-Fzi_logo.png) 
 
-![GitHub Logo](/images/disy_logo_rgb_500_180.gif)
-Format: ![Alt Text](url)
+Projektlaufzeit: 
 
-Projektlaufzeit: Mai 2017 bis Juli 2019
+Mai 2017 bis Juli 2019
 
 Kontakt:
 
