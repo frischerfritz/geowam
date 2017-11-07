@@ -1,21 +1,7 @@
-## WEKOVI - Werkzeug für die einfache Erstellung komplexer Vergleichsindizes
-
-
-Projektteilnehmer:
-Disy, FZI WIM und FZI IMA
-
-Kontakt: sophia.baron@disy.net
+# WEKOVI - Werkzeug für die einfache Erstellung komplexer Vergleichsindizes
 
 
 
-![GitHub Logo](/images/610px-Fzi_logo.png)
-Format: ![Alt Text](url)
-
-![GitHub Logo](/images/disy_logo_rgb_500_180.gif)
-Format: ![Alt Text](url)
-
-
-Projektlaufzeit: Mai 2017 bis Juli 2019
 
 
 
@@ -28,45 +14,27 @@ Im Projekt WEKOVI soll eine benutzerfreundliche und erweiterbare Software-Plattf
 ## Durchführung
 Es werden neuartige Methoden und Techniken für die systematische, werkzeuggestützte und kollaborative Erstellung von KVI und für deren effiziente Berechnung aus offenen (Geo-)Daten implementiert. Anhand mehrerer großer Testbeispiele auf offenen Daten des BMVI (mCLOUD) und anderer Quellen werden diese anschließend demonstriert und evaluiert. Die Beispiele sollen die Themen Mobilitätsindex und Modernitätsindex umfassen. Neben Software-Werkzeugen und effizienten Verarbeitungsmethoden für offene (Geo-)Daten werden auch sozio-ökonomische Rahmenbedingungen für das Gelingen der "Data Economy" erforscht.
 
+## Allgemeine Informationen
+
+Projektteilnehmer:
+
+Disy, FZI WIM und FZI IMA
 
 
+![GitHub Logo](/images/610px-Fzi_logo.png)
+Format: ![Alt Text](url)
 
+![GitHub Logo](/images/disy_logo_rgb_500_180.gif)
+Format: ![Alt Text](url)
 
-## Welcome to GitHub Pages
+Projektlaufzeit: Mai 2017 bis Juli 2019
 
-You can use the [editor on GitHub](https://github.com/WEKOVI/wekovi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kontakt:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Disy Informationssysteme GmbH
+Ludwig-Erhard-Allee 6
+76131 Karlsruhe
 
-### Markdown
+www.disy.net
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-[wekovi.github.io/images/610px-Fzi_logo.png](scr)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WEKOVI/wekovi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+sophia.baron@disy.net
