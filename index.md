@@ -1,6 +1,9 @@
 ## WEKOVI - Werkzeug für die einfache Erstellung komplexer Vergleichsindizes
 
+Projektteilnehmer: 
+Disy, FZI WIM und FZI IMA 
 
+<img src="..\images\610px-Fzi_logo.png">
 
 ## Welcome to GitHub Pages
 
