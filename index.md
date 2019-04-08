@@ -13,9 +13,13 @@
 Projektteilnehmer:
 
 [Disy](https://disy.net)
+
 [BfG](https://www.bafg.de/)
+
 [NLWKN](www.nlwkn.niedersachsen.de/startseite/)
+
 [KIT](https://kit.edu)
+
 [Uni Stuttgart](https://www.uni-stuttgart.de/)
 
 ![mFund Logo](/logos/mfund-logo-download.jpg)
