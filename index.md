@@ -1,4 +1,4 @@
-# WEKOVI - Werkzeug für die einfache Erstellung komplexer Vergleichsindizes
+# GeoWAM - ein mFund-Projekt
 
 
 
@@ -12,11 +12,11 @@
 
 Projektteilnehmer:
 
-Disy
-BfG
-NWLKN
-KIT
-Uni Stuttgart
+[Disy](https://disy.net)
+[BfG](https://www.bafg.de/)
+[NLWKN](www.nlwkn.niedersachsen.de/startseite/)
+[KIT](https://kit.edu)
+[Uni Stuttgart](https://www.uni-stuttgart.de/)
 
 ![mFund Logo](/logos/mfund-logo-download.jpg)
 ![Disy Logo](/logos/)
