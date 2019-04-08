@@ -22,6 +22,8 @@ Das Projektkonsortium wird von einem KMU mit hervorragender Forschungsexpertise 
 
 [NLWKN](www.nlwkn.niedersachsen.de/startseite/)
 
+[DLR](https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10002/)
+
 [KIT](https://kit.edu)
 
 [Uni Stuttgart](https://www.uni-stuttgart.de/)
@@ -30,6 +32,7 @@ Das Projektkonsortium wird von einem KMU mit hervorragender Forschungsexpertise 
 ![Disy Logo](/logos/)
 ![BfG Logo](/logos/)
 ![NWLKN Logo](/logos/)
+![DLR](/logos/)
 ![KIT Logo](/logos/)
 ![Uni Stuttgart Logo](/logos/)
 
