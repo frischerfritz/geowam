@@ -1,6 +1,6 @@
 # GeoWAM - ein mFund-Projekt
 
-
+![mFund Logo](/logos/mfund-logo-download.jpg)
 
 ## Problemstellung
 
@@ -26,7 +26,7 @@ Das Projektkonsortium wird von einem KMU mit hervorragender Forschungsexpertise 
 
 [Uni Stuttgart](https://www.uni-stuttgart.de/)
 
-![mFund Logo](/logos/mfund-logo-download.jpg)
+
 ![Disy Logo](/logos/)
 ![BfG Logo](/logos/)
 ![NWLKN Logo](/logos/)
