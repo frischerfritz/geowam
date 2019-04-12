@@ -16,25 +16,15 @@ Die Verwertung beruht auf den qualitativen und ökonomischen Vorteilen, welche 
 
 Das Projektkonsortium wird von einem KMU mit hervorragender Forschungsexpertise und dem Tätigkeitsschwerpunkt Verwaltungsinformatik auf Basis von Geodaten koordiniert (Disy). Eine Bundes- und eine Landesbehörde (BfG, NLWKN) stellen das wasserfachliche Know-How bereit und sichern die Praxisorientierung der Projektarbeiten sowie die Qualität der erzeugten Datenprodukte. Dazu wird auch mit vielfältigen Beratungs- und Verwer- tungspartnern außerhalb des Projektkonsortiums zusammengearbeitet. Die InSAR-Tech- nologie wird vom DLR bereitgestellt und weiterentwickelt. Zwei exzellente akademische Partner (KIT, Universität Stuttgart) aus der Fernerkundung entwickeln neue und ver- besserte Algorithmen und Analyseverfahren.
 
-[Disy](https://disy.net)
-
-[BfG](https://www.bafg.de/)
-
-[NLWKN](www.nlwkn.niedersachsen.de/startseite/)
-
-[DLR](https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10002/)
-
-[KIT](https://kit.edu)
-
-[Uni Stuttgart](https://www.uni-stuttgart.de/)
+Links: [Disy](https://disy.net), [BfG](https://www.bafg.de/), [NLWKN](www.nlwkn.niedersachsen.de/startseite/), [DLR](https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10002/), [KIT](https://kit.edu), [Uni Stuttgart](https://www.uni-stuttgart.de/)
 
 
 ![Disy Logo](/logos/)
-![BfG Logo](/logos/)
-![NWLKN Logo](/logos/)
-![DLR](/logos/)
-![KIT Logo](/logos/)
-![Uni Stuttgart Logo](/logos/)
+![BfG Logo](/logos/bgf_logo_small.png)
+![NLWKN Logo](/logos/NLWKN_logo_small.png)
+![DLR](/logos/dlr_logo_small.png)
+![KIT Logo](/logos/kit_logo_small.png)
+![Uni Stuttgart Logo](/logos/unistutt_logo_small.png)
 
 
 
