@@ -25,11 +25,11 @@ Das Projektkonsortium wird von einem KMU mit hervorragender Forschungsexpertise 
 ![KIT Logo](/logos/kit_logo_small.png)
 ![Uni Stuttgart Logo](/logos/unistutt_logo_small.png)
 
-Links: <br>
+Links: 
 <a href="https://disy.net/" target="_blank">Disy, </a>
 <a href="https://www.bafg.de/" target="_blank">BfG, </a>
 <a href="www.nlwkn.niedersachsen.de/startseite/" target="_blank">NLWKN, </a>
-<a href="https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10002/" target="_blank">DLR, </a> <br>
+<a href="https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10002/" target="_blank">DLR, </a> 
 <a href="https://kit.edu" target="_blank">KIT, </a>
 <a href="https://www.uni-stuttgart.de/" target="_blank">Uni Stuttgart</a>
 
@@ -38,16 +38,16 @@ Links: <br>
 Projektlaufzeit: November 2018 bis Oktober 2021
 
 
-<font size="10">
-Kontakt:
+<font size="15">
+<b>Kontakt:</b><br>
+<br>
+Disy Informationssysteme GmbH<br>
+Ludwig-Erhard-Allee 6<br>
+76131 Karlsruhe<br>
 
-Disy Informationssysteme GmbH
-Ludwig-Erhard-Allee 6
-76131 Karlsruhe
-
-www.disy.net
-
-geowam@disy.net
+www.disy.net<br>
+<br>
+geowam@disy.net<br>
 </font>
 
 
