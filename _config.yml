@@ -5,9 +5,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Neue Geodaten zur Verbesserung des Wassermanagements tidebeeinflusster Küstenbereiche
 
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
+
 #Umlaute
-layout: post
+encoding: utf-8
 
 
 theme: jekyll-theme-cayman
