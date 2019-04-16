@@ -35,11 +35,12 @@ Links:
 <a href="https://www.uni-stuttgart.de/" target="_blank">Uni Stuttgart</a>
 
 
-Projektlaufzeit: November 2018 bis Oktober 2021
+***
+__Projektlaufzeit:__ November 2018 bis Oktober 2021
 <br>
 
 
-<bold>Kontakt:</bold><br>
+#####Kontakt:
 geowam@disy.net<br>
 <br>
 Disy Informationssysteme GmbH<br>
