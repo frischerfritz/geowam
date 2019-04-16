@@ -2,21 +2,30 @@
 ---
 @import "{{ site.theme }}";
 h1{
-	color: #2367ff;
+	color: #174368;
 }
 h2{
-	color: #2367ff;
+	color: #174368;
 }
 h3{
-	color: #2367ff;
+	color: #174368;
 }
 h4{
-	color: #2367ff;
+	color: #174368;
 }
 h5{
-	color: #2367ff;
+	color: #174368;
+}
+h6{
+	color: #174368;
 }
 img{
 	margin-left: auto;
 	margin-right: auto;
+}
+.page-header{
+	color:#fff;
+	text-align:center;
+	background-color:#159957;
+	background-image:linear-gradient(120deg, #155799, #159957)
 }
