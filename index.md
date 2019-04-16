@@ -38,7 +38,7 @@ Links: <br>
 Projektlaufzeit: November 2018 bis Oktober 2021
 
 
-<font size="-2">
+<font size="10">
 Kontakt:
 
 Disy Informationssysteme GmbH
@@ -49,4 +49,5 @@ www.disy.net
 
 geowam@disy.net
 </font>
+
 
