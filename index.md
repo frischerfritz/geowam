@@ -1,5 +1,3 @@
-<meta http-equiv='Content-Type' content='text/html; charset=utf-8'/>
-
 ![mFund Logo](/logos/mfund-logo-download.jpg)
 
 # GeoWAM - ein mFund-Projekt
