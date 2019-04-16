@@ -17,14 +17,14 @@ Die Verwertung beruht auf den qualitativen und ökonomischen Vorteilen, welche 
 
 Das Projektkonsortium wird von einem KMU mit hervorragender Forschungsexpertise und dem Tätigkeitsschwerpunkt Verwaltungsinformatik auf Basis von Geodaten koordiniert (Disy). Eine Bundes- und eine Landesbehörde (BfG, NLWKN) stellen das wasserfachliche Know-How bereit und sichern die Praxisorientierung der Projektarbeiten sowie die Qualität der erzeugten Datenprodukte. Dazu wird auch mit vielfältigen Beratungs- und Verwer- tungspartnern außerhalb des Projektkonsortiums zusammengearbeitet. Die InSAR-Tech- nologie wird vom DLR bereitgestellt und weiterentwickelt. Zwei exzellente akademische Partner (KIT, Universität Stuttgart) aus der Fernerkundung entwickeln neue und ver- besserte Algorithmen und Analyseverfahren.
 
-<div justify-content: center;">
+
 ![Disy Logo](/logos/disy_logo_small.png)
 ![BfG Logo](/logos/bfg_logo_small.jpg)
 ![NLWKN Logo](/logos/NLWKN_logo_small.png)
 ![DLR](/logos/dlr_logo_small.jpg) <br>
 ![KIT Logo](/logos/kit_logo_small.png)
 ![Uni Stuttgart Logo](/logos/unistutt_logo_small.png)
-</div>
+
 
 Links: 
 <a href="https://disy.net/" target="_blank">Disy, </a>
@@ -33,7 +33,6 @@ Links:
 <a href="https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10002/" target="_blank">DLR, </a> 
 <a href="https://kit.edu" target="_blank">KIT, </a>
 <a href="https://www.uni-stuttgart.de/" target="_blank">Uni Stuttgart</a>
-
 
 
 Projektlaufzeit: November 2018 bis Oktober 2021
