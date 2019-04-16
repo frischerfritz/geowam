@@ -48,7 +48,7 @@ Disy Informationssysteme GmbH<br>
 Ludwig-Erhard-Allee 6<br>
 76131 Karlsruhe<br>
 
-www.disy.net
+<a href="https://disy.net/" target="_blank">www.disy.net</a>
 
 
 
