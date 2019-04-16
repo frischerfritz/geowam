@@ -38,16 +38,16 @@ Links:
 Projektlaufzeit: November 2018 bis Oktober 2021
 
 
-<font size="11">
+<font size="10">
 <bold>Kontakt:</bold><br>
+<br>
+geowam@disy.net<br>
 <br>
 Disy Informationssysteme GmbH<br>
 Ludwig-Erhard-Allee 6<br>
 76131 Karlsruhe<br>
 
 www.disy.net<br>
-<br>
-geowam@disy.net<br>
 </font>
 
 
