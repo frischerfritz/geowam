@@ -38,8 +38,8 @@ Links:
 Projektlaufzeit: November 2018 bis Oktober 2021
 
 
-<font size="15">
-<b>Kontakt:</b><br>
+<font size="11">
+<bold>Kontakt:</bold><br>
 <br>
 Disy Informationssysteme GmbH<br>
 Ludwig-Erhard-Allee 6<br>
