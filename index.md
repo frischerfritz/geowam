@@ -19,10 +19,10 @@ Das Projektkonsortium wird von einem KMU mit hervorragender Forschungsexpertise 
 Links: [Disy](https://disy.net), [BfG](https://www.bafg.de/), [NLWKN](www.nlwkn.niedersachsen.de/startseite/), [DLR](https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10002/), [KIT](https://kit.edu), [Uni Stuttgart](https://www.uni-stuttgart.de/)
 
 
-![Disy Logo](/logos/)
-![BfG Logo](/logos/bgf_logo_small.png)
+![Disy Logo](/logos/disy_logo_small.png)
+![BfG Logo](/logos/bfg_logo_small.png)
 ![NLWKN Logo](/logos/NLWKN_logo_small.png)
-![DLR](/logos/dlr_logo_small.png)
+![DLR](/logos/dlr_logo_small.jpg)
 ![KIT Logo](/logos/kit_logo_small.png)
 ![Uni Stuttgart Logo](/logos/unistutt_logo_small.png)
 
